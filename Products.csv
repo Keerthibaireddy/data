@@ -1,0 +1,61 @@
+ProdID,ProductName,UnitCost,ListPrice,QtyPerUnit,SupID
+P111,Syrup,7.50,10.00,12 - 550 ml bottles,S009
+P112,Cajun Seasoning,19.50,22.00,48 - 6 oz jars,S004
+P113,Olive Oil,19.01,21.35,36 boxes,S003
+P114,Boysenberry Spread,18.75,25.00,12 - 8 oz jars,S006
+P115,Dried Pears,22.50,30.00,12 - 1 lb pkgs.,S001
+P116,Mango,30.00,40.00,12 - 12 oz jars,S002
+P117,Walnuts,17.44,23.25,40 - 100 g pkgs.,S005
+P118,Fruit Cocktail,29.25,39.00,18.25 OZ,S009
+P119,Chocolate Biscuits Mix,6.90,9.20,10 boxes x 12 pieces,S004
+P120,Jam,6.75,8.10,30 gift boxes,S007
+P121,Scones,7.50,10.00,24 pkgs. x 4 pieces,S007
+P122,Red Stripe,10.50,14.00,24 - 12 oz bottles,S002
+P123,Crab Meat,13.80,18.40,24 - 4 oz tins,S008
+P124,Clam Chowder,7.24,9.65,12 - 12 oz cans,S009
+P125,Coffee,34.50,46.00,19 - 500 g tins,S002
+P126,Plantain,9.55,12.75,10 pkgs,S002
+P127,Fish Sauce,39.75,53.00,50 - 300 g pkgs.,S001
+P128,Long Grain Rice,5.25,7.00,19 - 2 kg boxes,S001
+P129,Gnocchi,28.50,38.00,24 - 250 g pkgs.,S003
+P130,Ravioli,14.63,19.50,24 - 250 g pkgs.,S003
+P131,Salt Fish,18.79,21.05,4 lbs,S002
+P132,Tomato Sauce,12.75,17.00,24 - 8 oz jars,S003
+P133,Mozzarella,26.10,34.80,24 - 200 g pkgs.,S003
+P134,Almonds,7.50,10.00,5 kg pkg.,S005
+P135,Mustard,9.75,13.00,12 boxes,S004
+P136,Dried Plums,3.00,3.50,1 lb bag,S001
+P137,Green Tea,2.00,2.99,20 bags per box,S012
+P138,Granola,2.00,4.00,5 kg pkg.,S004
+P139,Potato Chips,0.50,1.80,20 bags per box,S007
+P140,Brownie Mix,9.00,12.49,3 boxes,S004
+P141,Cake Mix,10.50,18.99,4 boxes,S004
+P142,Tea,2.00,4.00,100 count per box,S012
+P143,Pears,1.00,1.30,18.25 OZ,S005
+P144,Peaches,1.00,1.50,18.25 OZ,S005
+P145,Pineapple,1.00,1.80,18.25 OZ,S005
+P146,Apple Pie Filling,1.00,2.00,18.25 OZ,S004
+P147,Green Beans,1.00,1.20,14.5 OZ,S005
+P148,Corn,1.00,1.20,14.5 OZ,S005
+P149,Peas,1.00,1.50,14.5 OZ,S005
+P150,Tuna Fish,0.50,2.00,5 oz,S008
+P151,Smoked Salmon,2.00,4.00,5 oz,S006
+P152,Hot Cereal,3.00,5.00,14.5 OZ,S004
+P153,Vegetable Soup,1.00,1.89,14.5 OZ,S004
+P154,Chicken Soup,1.00,1.95,14.5 OZ,S004
+P155,Patties,3.00,3.50,5 per order,S010
+P156,Miso,10.00,11.00,15 Oz,S011
+P157,Wasabe,15.00,20.00,3 Oz,S011
+P158,Easter Bun,7.00,8.00,3 Per Box,S010
+P159,Croissant,5.00,6.50,5 per box,S013
+P160,Rum,12.00,16.00,1 Bottle,S014
+P161,Ghee,5.00,7.50,1 lb,S015
+P162,Gruyere,10.00,12.00,1 lb Slab,S016
+P163,Garam Masal,6.00,7.25,2 Jars,S017
+P164,Chick Peas,12.00,17.50,12 Tins,S018
+P165,Baguette,3.50,4.25,3 Per Order,S013
+P166,Hot Pepper Sauce,18.79,21.05,32 - 8 oz bottles,S014
+P167,Tumeric,3.75,4.75,1 Jar,S015
+P168,Brie,8.00,9.5,1lb Slab,S016
+P169,Cardamon Pods,3.25,4.00,1lb Bag,S017
+P170,Roti,4.23,6,8,S018
